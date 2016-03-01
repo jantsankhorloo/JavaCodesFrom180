@@ -1,0 +1,6 @@
+
+public class IlligelDivisionByZero extends Exception {
+	public IlligelDivisionByZero(String message) {
+		super(message);
+	}
+}
